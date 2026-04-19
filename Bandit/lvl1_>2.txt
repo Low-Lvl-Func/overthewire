@@ -1,0 +1,7 @@
+$ cat - # won't work cause the dash - is a reserved symbol that represents stdin
+
+$ cat ./-
+
+password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+
