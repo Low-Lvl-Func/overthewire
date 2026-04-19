@@ -1,0 +1,11 @@
+Be in ~
+
+cat readme
+"
+....
+password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If "
+
+
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+
+(use password from above)
