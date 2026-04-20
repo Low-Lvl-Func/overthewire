@@ -1,0 +1,7 @@
+$ ssh bandit3@bandit.labs.overthewire.org -p 2220
+(password from last)
+
+bandit3@bandit:~$ cd inhere/
+
+bandit3@bandit:~/inhere$ cat ...Hiding-From-You 
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
