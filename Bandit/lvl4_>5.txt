@@ -1,0 +1,5 @@
+bandit4@bandit:~/inhere$ file ./* | grep "text"
+./-file07: ASCII text
+
+bandit4@bandit:~/inhere$ cat ./-file07
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
