@@ -1,0 +1,5 @@
+bandit5@bandit:~$ find inhere -type f -size 1033c ! -executable -exec file {} +
+inhere/maybehere07/.file2: ASCII text, with very long lines (1000)
+
+bandit5@bandit:~$ cat inhere/maybehere07/.file2 
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
