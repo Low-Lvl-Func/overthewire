@@ -1,0 +1,10 @@
+bandit9@bandit:~$ strings data.txt | grep "=="
+========== the
+2========== password
+========== is
+========== FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+
+
+strings: This utility scans the binary file and extracts sequences of printable characters that are at least 4 characters long. 
+It effectively ignores all the "binary junk" and only shows you things a human can read.
