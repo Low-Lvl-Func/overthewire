@@ -1,0 +1,2 @@
+bandit11@bandit:~$ python3 -c "import codecs; print(codecs.encode(open('data.txt').read(), 'rot_13'))"
+The password is 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
